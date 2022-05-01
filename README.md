@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiva1432-cyber
+- 👋 Hi, I’m @Shiva7229
 - 👀 I’m interested in learning new things in coding, etc. 
 - 🌱 I’m currently learning python, JavaScript & cyber security. 
 - 💞️ I’m looking to collaborate on with my intrests. 
